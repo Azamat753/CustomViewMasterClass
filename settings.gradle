@@ -1,0 +1,3 @@
+include ':avatar_imageview'
+include ':app'
+rootProject.name = "CustomViewMasterClass"
